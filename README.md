@@ -88,6 +88,12 @@ Before creating the dashboard, the dataset was cleaned and enhanced by:
 
 ---
 
+## 🎛 Interactive Filtering
+
+The dashboard allows users to dynamically analyze sales data using interactive slicers.
+
+<img src="Dashboard with Filters.png" width="100%">
+
 ## 📁 Repository Structure
 
 ```
