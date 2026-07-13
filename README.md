@@ -84,7 +84,7 @@ Before creating the dashboard, the dataset was cleaned and enhanced by:
 
 ## 📷 Dashboard Preview
 
-<img width="100%" alt="Retail Sales Dashboard" src="YOUR_SCREENSHOT_HERE">
+<img width="100%" alt="Retail Sales Dashboard" src="Dashboard Preview.png">
 
 ---
 
