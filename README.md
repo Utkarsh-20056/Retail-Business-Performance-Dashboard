@@ -1,4 +1,4 @@
-# 📊 Retail Sales Performance Dashboard | Microsoft Excel
+# 📊 Retail Business Performance Dashboard | Microsoft Excel
 
 An interactive Excel dashboard built to analyze retail sales performance and transform raw sales data into meaningful business insights using Pivot Tables, Pivot Charts, Slicers, and KPI Cards.
 
@@ -99,7 +99,7 @@ The dashboard allows users to dynamically analyze sales data using interactive s
 ```
 Retail-Sales-Performance-Dashboard
 │
-├── Retail Sales Dashboard.xlsx
+├── Retail Business Dashboard.xlsx
 ├── Dashboard Preview.png
 ├── README.md
 └── Dataset
